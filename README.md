@@ -1,7 +1,3 @@
-# Conflict Tracker API 🌍
-
-API REST desarrollada con Spring Boot 3 para el seguimiento de conflictes bèl·lics a nivel mundial.
-
 ## Descripción del Proyecto
 
 Conflict Tracker es una aplicación backend que proporciona una API REST completa para gestionar información sobre conflictos bélicos, facciones, países involucrados y eventos clave. El proyecto implementa una arquitectura por capas bien definida, utilizando Spring Boot, JPA/Hibernate y una base de datos relacional.
@@ -285,11 +281,3 @@ La aplicación incluye un manejador global de excepciones que devuelve respuesta
 - `ResourceNotFoundException`: Recurso no encontrado (404)
 - `MethodArgumentNotValidException`: Error de validación (400)
 - Excepciones generales (500)
-
-## Autor
-
-Proyecto desarrollado como parte del módulo de Programació Fullstack.
-
-## Licencia
-
-Este proyecto es de código abierto y está disponible para fines educativos.
